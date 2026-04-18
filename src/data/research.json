@@ -1,0 +1,11 @@
+{
+  "title": "ENHANCING WOMEN'S SAFETY THROUGH AI-POWERED THREAT DETECTION AND MULTI-LAYERED EMERGENCY PROTOCOLS",
+  "abstract": "In an era of increasing concerns about personal safety, particularly for women, this research proposes a comprehensive, privacy-first ecosystem called 'Shield Her'. The study explores on-device AI for real-time threat detection (screams, stress signals) using TensorFlow Lite, coupled with a multi-mode emergency protocol that ensures stealth activation. We investigate the integration of AES-256 encrypted evidence gathering with potential blockchain-based evidence chains to ensure legal integrity. The research highlights the transition from passive tracking to active, intelligent safety intervention.",
+  "keywords": ["AI Safety", "Women Safety", "Threat Detection", "On-device ML", "Privacy-first Architecture", "Blockchain Evidence"],
+  "authors": ["Rushabh Singh"],
+  "journal": "International Journal of Creative Research Thoughts (IJCRT)",
+  "publicationDate": "April 2026",
+  "paperUrl": "data/IJCRT2604158.pdf",
+  "certificateId": 94,
+  "citation": "Singh, R. (2026). Enhancing Women's Safety through AI-Powered Threat Detection and Multi-layered Emergency Protocols. IJCRT, 14(4), 158-172."
+}

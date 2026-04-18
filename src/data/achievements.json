@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "title": "Smart India Hackathon 2024 — Internal Finalist",
+    "event": "SIH 2024 (Internal Round)",
+    "position": "Finalist",
+    "tier": "National",
+    "stars": 4,
+    "category": "Hackathon",
+    "date": "2024",
+    "certificateId": 32,
+    "description": "Selected as a finalist in the internal college qualifying round for Smart India Hackathon 2024.",
+    "criteria": {
+      "selectionRate": "Top 10%",
+      "difficulty": "High",
+      "reputation": "Ministry of Education, Govt. of India"
+    }
+  },
+  {
+    "id": 2,
+    "title": "EY Techathon 6.0 — Round 2 Cleared",
+    "event": "EY Techathon 6.0",
+    "position": "Qualified for Finals",
+    "tier": "National",
+    "stars": 5,
+    "category": "Case Study",
+    "date": "2026",
+    "certificateId": 93,
+    "description": "Cleared multiple competitive rounds to reach the national finals of EY Techathon 6.0.",
+    "criteria": {
+      "selectionRate": "Elite Level",
+      "difficulty": "Very High",
+      "reputation": "Ernst & Young (EY)"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pragati 2.0 Build-it-On — Winner",
+    "event": "TCET Mumbai",
+    "position": "Winner 🏆",
+    "tier": "National",
+    "stars": 4,
+    "category": "Hackathon",
+    "date": "2026",
+    "certificateId": 90,
+    "description": "Secured 1st place in the Pragati 2.0 Build-it-On hackathon for innovative solution implementation.",
+    "criteria": {
+      "selectionRate": "1st Place",
+      "difficulty": "High",
+      "reputation": "TCET (IETE branch)"
+    }
+  },
+  {
+    "id": 4,
+    "title": "JPMorgan Chase Software Engineering Simulation",
+    "event": "Forage",
+    "position": "Completed",
+    "tier": "International",
+    "stars": 4,
+    "category": "Simulation",
+    "date": "2024",
+    "certificateId": 73,
+    "description": "Completed the JPMorgan Chase & Co. Software Engineering Virtual Experience Program.",
+    "criteria": {
+      "selectionRate": "N/A",
+      "difficulty": "Medium",
+      "reputation": "J.P. Morgan"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Deloitte Data Analytics Job Simulation",
+    "event": "Forage",
+    "position": "Completed",
+    "tier": "International",
+    "stars": 4,
+    "category": "Simulation",
+    "date": "2025",
+    "certificateId": 78,
+    "description": "Completed the Deloitte Data Analytics Virtual Experience Program.",
+    "criteria": {
+      "selectionRate": "N/A",
+      "difficulty": "Medium",
+      "reputation": "Deloitte"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Programming In Java — Silver Elite",
+    "event": "NPTEL (IIT Kharagpur)",
+    "position": "Top 5% (Silver Elite)",
+    "tier": "National",
+    "stars": 4,
+    "category": "Academic",
+    "date": "2025",
+    "certificateId": 84,
+    "description": "Achieved Silver Elite status in the Programming in Java course by NPTEL, scoring in the top 5% nationally.",
+    "criteria": {
+      "selectionRate": "Top 5%",
+      "difficulty": "High",
+      "reputation": "IIT Kharagpur"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Research Paper — AI Safety (IJCRT Published)",
+    "event": "IJCRT",
+    "position": "Published Author",
+    "tier": "National",
+    "stars": 5,
+    "category": "Academic",
+    "date": "2026",
+    "certificateId": 94,
+    "description": "Published a research paper on AI safety in the International Journal of Creative Research Thoughts (IJCRT).",
+    "criteria": {
+      "selectionRate": "Peer Reviewed",
+      "difficulty": "High",
+      "reputation": "IJCRT Journal"
+    }
+  },
+  {
+    "id": 8,
+    "title": "National Level E-Quiz 7.0 (CBIT Hyderabad)",
+    "event": "CBIT Hyderabad",
+    "position": "Top Performer",
+    "tier": "National",
+    "stars": 3,
+    "category": "Coding",
+    "date": "2025",
+    "certificateId": 2,
+    "description": "Recognized as a top performer in the National Level E-Quiz organized by CBIT Hyderabad.",
+    "criteria": {
+      "selectionRate": "N/A",
+      "difficulty": "Medium",
+      "reputation": "CBIT Hyderabad"
+    }
+  },
+  {
+    "id": 9,
+    "title": "H.E.A.T 1.0 Hackathon",
+    "event": "ATLAS SkillTech University",
+    "position": "Participated",
+    "tier": "National",
+    "stars": 3,
+    "category": "Hackathon",
+    "date": "2026",
+    "certificateId": 88,
+    "description": "Participated in the H.E.A.T 1.0 Hackathon organized by ATLAS SkillTech University in collaboration with IET.",
+    "criteria": {
+      "selectionRate": "N/A",
+      "difficulty": "High",
+      "reputation": "ATLAS SkillTech University"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Code Or Die — Invictus 2026, DTU New Delhi",
+    "event": "DTU New Delhi",
+    "position": "Participated",
+    "tier": "National",
+    "stars": 3,
+    "category": "Coding",
+    "date": "2026",
+    "certificateId": 87,
+    "description": "Participated in the 'Code Or Die' competition at Invictus 2026, Delhi Technological University.",
+    "criteria": {
+      "selectionRate": "N/A",
+      "difficulty": "High",
+      "reputation": "DTU New Delhi"
+    }
+  },
+  {
+    "id": 11,
+    "title": "SAMVAD Article Writing — National Finalist",
+    "event": "University of Mumbai",
+    "position": "Finalist",
+    "tier": "National",
+    "stars": 3,
+    "category": "Academic",
+    "date": "2025",
+    "certificateId": 81,
+    "description": "Selected as a national finalist in the SAMVAD article writing competition hosted by University of Mumbai.",
+    "criteria": {
+      "selectionRate": "Top 20",
+      "difficulty": "Medium",
+      "reputation": "University of Mumbai"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Elevate 2.0 Digital Quiz",
+    "event": "IIM Bodh Gaya",
+    "position": "Participated",
+    "tier": "National",
+    "stars": 2,
+    "category": "Academic",
+    "date": "2025",
+    "certificateId": 91,
+    "description": "Participated in the Elevate 2.0 digital quiz competition organized by IIM Bodh Gaya.",
+    "criteria": {
+      "selectionRate": "N/A",
+      "difficulty": "Medium",
+      "reputation": "IIM Bodh Gaya"
+    }
+  }
+]

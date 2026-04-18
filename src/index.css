@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Evoxsy';
+  src: url('/fonts/Evoxsy-Demo-BF67c91473c0a23.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg-primary: #040812;
+  --bg-surface: #0a1628;
+  --bg-glass: rgba(13, 26, 48, 0.75);
+  --accent-cyan: #00d4ff;
+  --accent-blue: #0066ff;
+  --accent-gold: #ffd700;
+  --accent-purple: #7c3aed;
+  --accent-green: #00ff88;
+  --accent-red: #ff4757;
+  
+  --border-glass: rgba(0, 212, 255, 0.15);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  background-color: var(--bg-primary);
+  color: #e2e8f0;
+}
+
+/* Base scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--bg-surface);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-cyan);
+}

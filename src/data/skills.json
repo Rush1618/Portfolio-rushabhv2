@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "icon": "💻",
+      "skills": [
+        { "name": "Python", "icon": "devicon-python-plain", "level": 50 },
+        { "name": "JavaScript", "icon": "devicon-javascript-plain", "level": 25 },
+        { "name": "C++", "icon": "devicon-cplusplus-plain", "level": 75 },
+        { "name": "Java", "icon": "devicon-java-plain", "level": 70 },
+        { "name": "TypeScript", "icon": "devicon-typescript-plain", "level": 35 },
+        { "name": "SQL", "icon": "devicon-mysql-plain", "level": 40 }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "icon": "🎨",
+      "skills": [
+        { "name": "React", "icon": "devicon-react-original", "level": 85 },
+        { "name": "Next.js", "icon": "devicon-nextjs-plain", "level": 80 },
+        { "name": "React Native", "icon": "devicon-react-original", "level": 80 },
+        { "name": "HTML5", "icon": "devicon-html5-plain", "level": 95 },
+        { "name": "CSS3", "icon": "devicon-css3-plain", "level": 90 },
+        { "name": "Three.js", "icon": "devicon-threejs-original", "level": 70 }
+      ]
+    },
+    {
+      "name": "Backend",
+      "icon": "⚙️",
+      "skills": [
+        { "name": "Node.js", "icon": "devicon-nodejs-plain", "level": 25 },
+        { "name": "FastAPI", "icon": "devicon-fastapi-plain", "level": 40 },
+        { "name": "Express.js", "icon": "devicon-express-original", "level": 20 },
+        { "name": "MongoDB", "icon": "devicon-mongodb-plain", "level": 30 },
+        { "name": "PostgreSQL", "icon": "devicon-postgresql-plain", "level": 25 },
+        { "name": "REST APIs", "icon": "devicon-nodejs-plain", "level": 30 }
+      ]
+    },
+    {
+      "name": "AI/ML",
+      "icon": "🤖",
+      "skills": [
+        { "name": "TensorFlow", "icon": "devicon-tensorflow-original", "level": 20 },
+        { "name": "PyTorch", "icon": "devicon-pytorch-original", "level": 30 },
+        { "name": "scikit-learn", "icon": "devicon-python-plain", "level": 30 },
+        { "name": "Pandas", "icon": "devicon-pandas-original", "level": 35 },
+        { "name": "NumPy", "icon": "devicon-numpy-original", "level": 35 },
+        { "name": "OpenCV", "icon": "devicon-opencv-plain", "level": 20 }
+      ]
+    },
+    {
+      "name": "Cloud & Tools",
+      "icon": "☁️",
+      "skills": [
+        { "name": "Google Cloud", "icon": "devicon-googlecloud-plain", "level": 70 },
+        { "name": "Git", "icon": "devicon-git-plain", "level": 90 },
+        { "name": "Docker", "icon": "devicon-docker-plain", "level": 65 },
+        { "name": "GitHub", "icon": "devicon-github-original", "level": 90 },
+        { "name": "VS Code", "icon": "devicon-vscode-plain", "level": 95 },
+        { "name": "Linux", "icon": "devicon-linux-plain", "level": 75 }
+      ]
+    }
+  ]
+}
