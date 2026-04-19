@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import { memo } from 'react';
-import Scene from '../3d/Scene';
 import { Link } from 'react-router-dom';
 import { Github, Linkedin, FileText, ChevronDown } from 'lucide-react';
 
@@ -8,8 +7,7 @@ const Hero = memo(() => {
   return (
     <>
       <section id="hero" className="relative min-h-screen flex flex-col justify-center items-center overflow-hidden">
-        {/* Fixed 3D Background */}
-        <Scene />
+        {/* 3D Background is global — rendered in App.jsx */}
         
         {/* Content */}
         <div className="container mx-auto px-6 z-10 flex flex-col items-center text-center mt-20">
