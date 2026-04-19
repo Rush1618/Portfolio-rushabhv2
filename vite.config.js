@@ -4,6 +4,14 @@ import compression from 'vite-plugin-compression'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  server: {
+    host: true,
+    port: 5173,
+  },
+  preview: {
+    host: true,
+    port: 5173,
+  },
   plugins: [
     react(),
     compression({
@@ -26,12 +34,9 @@ export default defineConfig({
       }
     },
     chunkSizeWarningLimit: 1000,
-    minify: 'terser',
-    terserOptions: {
-      compress: {
-        drop_console: true,
-        drop_debugger: true,
-      },
+    minify: 'esbuild',
+    esbuildOptions: {
+      drop: ['console', 'debugger'],
     },
   },
 })
