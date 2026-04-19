@@ -1,0 +1,1 @@
+import{j as t}from"./framer-vendor-D8V3ctjy.js";import{r}from"./ui-vendor-BwDqsHYE.js";import o from"./GitHubActivity-D_NhtwcB.js";import"./index-z29maIFa.js";function a(){return r.useEffect(()=>{window.scrollTo(0,0)},[]),t.jsx("div",{className:"pt-20",children:t.jsx(o,{})})}export{a as default};
