@@ -9,7 +9,8 @@ export default defineConfig({
   },
   preview: {
     host: true,
-    port: 10000, // Render's default expected port
+    port: 10000,
+    allowedHosts: 'all',
   },
   plugins: [
     react(),
